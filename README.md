@@ -11,4 +11,4 @@ I'm currently a student passionate about programming and data science.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nzx03&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nzx03&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/Nzx03DenverCoder1)](https://git.io/streak-stats)
