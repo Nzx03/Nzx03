@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Nzx03/Nzx03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there!
 
-Here are some ideas to get you started:
+I'm currently a student passionate about programming and data science.  
+- 🐍 My favorite language is **Python**.
+- 📓 I love working with **Jupyter Notebooks** for experiments and learning.
+- 🚀 I'm always eager to explore new technologies and improve my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nzx03&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=nzx03&theme=dark&hide_border=true)
