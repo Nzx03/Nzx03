@@ -14,7 +14,7 @@ I'm currently a student passionate about programming and machine learning
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nzx03&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nzx03&theme=radical&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nzx03&theme=radical&hide_border=true)  
 
 
 
